@@ -1,0 +1,2 @@
+﻿This is a test file in txt.
+为什么结尾会有感叹号
